@@ -6,10 +6,8 @@ We are Computerization, a high school student club focusing on on-campus informa
 
 ## 🧑‍💻 What we do
 
-🌐 **Web department:** Front-end development, website maintenance, and joint-club activities.
-
-🤖 **AI department:** ML & DL, and exploring the latest technologies.
-
+🌐 **Web department:** Front-end development, website maintenance, and joint-club activities.  
+🤖 **AI department:** ML & DL, and exploring the latest technologies.  
 ⚡ **OI department:** Contest preparation and algorithm lectures.
 
 ## 🚀 Projects we are currently working on
